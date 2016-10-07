@@ -16,6 +16,7 @@ Se conecta al servidor y envía los comandos introducidos por el usuario, que se
     * Etc.
 * Si se reinicia el servidor, el bot no se reconecta.
 * Falta por definir la función "recfile" que en un principio estaba ideada para que las víctimas descargaran ficheros directamente desde el servidor. Si se esta trabajando en linux se puede usar el comando "wget".
+* No cumple la guía de estilo PEP8.
 
 ```
 Este repositorio fue un pequeño apartado de un proyecto final de FP y se ha dejado de lado.
